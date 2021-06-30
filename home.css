@@ -1,0 +1,40 @@
+
+  .name{
+      font-size: 38pt;
+      text-decoration: underline;
+      background-color: lightgrey;
+      text-align: center;
+      color: rgb(240, 15, 154);
+  }
+  h2{
+      font-size: 25pt;
+  }
+  h3 {
+    font-family: Lobster, monospace;
+     font-style: oblique;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: monospace;
+  }
+  hr{
+    height: 1px;
+    background-color:palevioletred;
+    border: none;
+}
+.thankyou{
+    text-decoration-color: crimson; 
+     font-family: fantasy; 
+     color:  blueviolet; 
+     size: 10px;
+}
+  .photo {
+    border-color: pink;
+    width:30%;
+    height:50%;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+  }
+
